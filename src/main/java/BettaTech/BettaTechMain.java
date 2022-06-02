@@ -1,9 +1,11 @@
+package BettaTech;
+
 import java.util.HashMap;
 /*
 Entrevista técnica BetaTech:
 Dado una cadena de texto, tenemos que sacar el número de veces que se repite este texto
 */
-public class BetaTechMain {
+public class BettaTechMain {
     public static void main(String args[]){
         String cadenaAEvaluar = "hola hola hola!!! como como  estáis? yo yo yo yo yo estoy muy bien! y tú ?";
         contadorPalabras(cadenaAEvaluar);
